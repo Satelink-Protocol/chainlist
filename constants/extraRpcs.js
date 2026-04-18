@@ -904,6 +904,10 @@ export const extraRpcs = {
         tracking: "none",
         trackingDetails: privacyStatement.drpc,
       },
+      {
+         url: "https://satelink-dashboard.vercel.app/gateway/rpc/amoy",
+         tracking: "none",
+      },
     ],
   },
   56: {
